@@ -47,3 +47,5 @@ group :development do
   gem 'rails_12factor', '0.0.3'
 end
 
+source "https://rubygems.org"
+ruby "2.3.4"
